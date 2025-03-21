@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/recipe-sharing/static/css/main.d3ce5275.css",
+    "main.js": "/recipe-sharing/static/js/main.6b5a4f4f.js",
+    "index.html": "/recipe-sharing/index.html",
+    "main.d3ce5275.css.map": "/recipe-sharing/static/css/main.d3ce5275.css.map",
+    "main.6b5a4f4f.js.map": "/recipe-sharing/static/js/main.6b5a4f4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3ce5275.css",
+    "static/js/main.6b5a4f4f.js"
+  ]
+}
