@@ -157,7 +157,16 @@ nav {
     padding: 40px;
     text-align: center;
 }
-
+.input-field {
+    margin-bottom: 20px;
+    padding: 12px;
+    width: 100%;
+    max-width: 600px;
+    box-sizing: border-box;
+    font-size: 18px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
 .input-field2 {
     margin-bottom: 20px;
     padding: 12px;

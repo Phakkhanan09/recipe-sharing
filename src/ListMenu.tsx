@@ -4,7 +4,7 @@ import { collection, getDocs, doc, deleteDoc } from "firebase/firestore";
 import { Recipe } from "./type";
 import { db } from "./firebase";
 import "./styles.css";
-import { FaCirclePlus } from "react-icons/fa6";
+import { FaPlus } from "react-icons/fa";
 
 const ListMenu = () => {
   const [recipes, setRecipes] = useState<Recipe[]>([]);
@@ -105,7 +105,7 @@ const ListMenu = () => {
       </div>
 
       <div className="add-menu-container">
-        <Link to="/add-recipe" className="add-recipe-menu"><FaCirclePlus /></Link>
+        <Link to="/add-recipe" className="add-recipe-menu"> <FaPlus /> </Link>
       </div>
     </div> 
   );
