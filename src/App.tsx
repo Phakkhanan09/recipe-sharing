@@ -9,7 +9,7 @@ import EditRecipe from "./EditRecipe";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/recipe-sharing">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/list-menu" element={<ListMenu />} />
