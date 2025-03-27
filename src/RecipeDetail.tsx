@@ -53,7 +53,7 @@ const RecipeDetail = () => {
       className="list-menu-container"
       style={{
         backgroundImage: 'url(/images/foodbg4.jpg)',
-        backgroundColor: 'rgba(0, 0, 0, 0.3)',
+        backgroundColor: 'rgb(0, 0, 0)',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         minHeight: '100vh',

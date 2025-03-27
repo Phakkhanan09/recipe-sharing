@@ -37,7 +37,7 @@ const AddRecipe = () => {
       className="add-recipe-container"
       style={{
         backgroundImage: 'url(/images/foodbg2.png)',
-        backgroundColor: 'rgba(0, 0, 0, 0.3)',
+        backgroundColor: 'rgb(0, 0, 0)',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         height: '100vh',

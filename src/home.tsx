@@ -7,7 +7,7 @@ const Home = () => {
       className="home-container" 
       style={{ 
         backgroundImage: 'url(/images/food1.jpg)',
-        backgroundColor: 'rgba(0, 0, 0, 0.3)',
+        backgroundColor: 'rgb(0, 0, 0)',
         backgroundSize: 'cover', 
         backgroundPosition: 'center', 
         height: '100vh', 

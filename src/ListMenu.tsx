@@ -59,7 +59,7 @@ const ListMenu = () => {
       className="list-menu-container" 
       style={{ 
         backgroundImage: 'url(/images/foodbg.jpg)',
-        backgroundColor: 'rgba(0, 0, 0, 0.3)',
+        backgroundColor: 'rgb(0, 0, 0)',
         backgroundSize: 'cover', 
         backgroundPosition: 'center', 
         minHeight: '100vh', 
